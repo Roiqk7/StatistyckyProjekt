@@ -88,6 +88,8 @@ plt.tight_layout()
 plt.show()
 ```
 
+Po spuštění dostáváme:
+
 ![boxplot](boxplot.png)
 
 Boxplot již naznačuje, že rozdíl nebude nijak veliký.
